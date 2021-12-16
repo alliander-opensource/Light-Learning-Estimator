@@ -37,5 +37,3 @@ N.B.
 
 Contact:
 Leon de Jong 
-Tel: +31618730809
-E-mail: leon.de.jong@alliander.com
