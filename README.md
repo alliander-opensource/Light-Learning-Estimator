@@ -26,7 +26,7 @@ Voordelen voor Alliander:
 In deze challenge gaan jullie aan de slag om dit stukje software te ontwikkelen. Hier staat natuurlijk ook iets tegenover:  
 **Naast eeuwige roem, is de hoofdprijs €1.000,-. De deadline voor inzenden is 6 februari 2022, 23:59.**
 
-Verdere instructies voor de challenge zijn [hier](LLEProtocol.pdf) te vinden vanaf vrijdag. Bij onduidelijkheden, zoek vooral contact.
+Verdere instructies voor de challenge zijn [hier](LLEProtocol.pdf) te vinden vanaf vrijdag 17 december. Bij onduidelijkheden, zoek vooral contact.
 
 **Veel plezier!** 
 
@@ -35,3 +35,7 @@ N.B.
 2. Nadat je je hebt ingeschreven, krijg je een link naar een NDA en verwerkersovereenkomst. Om met echte data te werken, dienen deze ondertekend te worden.
 3. Nadat deze ondertekend zijn, krijg je van ons toegang tot de data en verdere instructies, en kan je aan de slag.
 
+Contact:
+Leon de Jong 
+Tel: +31618730809
+E-mail: leon.de.jong@alliander.com
