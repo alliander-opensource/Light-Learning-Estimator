@@ -37,7 +37,7 @@ Verdere instructies voor de challenge zijn [hier](LLEProtocol.pdf) te vinden van
 
 N.B. 
 1. Schrijf je [HIER](https://docs.google.com/forms/d/1KAlcNgMeU62mEw3YGnrdtdb8G_-K46DM0Ep_UzFGNNk/) in voor de challenge. 
-2. Nadat je je hebt ingeschreven, krijg je een link naar een NDA en verwerkersovereenkomst. Om met echte data te werken, dienen deze ondertekend te worden.
+2. Nadat je je hebt ingeschreven, krijg je een toegang tot een NDA en verwerkersovereenkomst. Om met echte data te werken, dienen deze ondertekend te worden.
 3. Nadat deze ondertekend zijn, krijg je van ons toegang tot de data en verdere instructies, en kan je aan de slag.
 
 Contact:
