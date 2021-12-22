@@ -4,41 +4,59 @@
 
 ![](images/poster.png)
 
-**Alliander geeft vorm aan de energietoekomst van Nederland** 
+**Alliander shapes the energy future of the Netherlands**
 
-Wij staan voor een energievoorziening die iedereen onder gelijke condities toegang geeft tot betrouwbare, betaalbare en duurzame energie. Dat is waar wij iedere dag aan werken. Door ons netwerk continu te verbeteren bereiden we ons voor op de toekomst. Een toekomst waarin iedereen duurzame energie kan gebruiken, produceren en delen. 
+We stand for an energy supply that gives everyone access to reliable, affordable and sustainable energy
+under equal conditions. That's what we work on every day. By continuously improving our network,
+we prepare for the future. A future in which everyone can use, produce and share sustainable energy.
 
-Alliander ontwikkelt en beheert energienetten. Via onze kabels en leidingen ontvangen ruim drie miljoen Nederlandse huishoudens en bedrijven elektriciteit, gas en warmte. We beheren meer dan 90.000 km elektriciteitsnet en 40.000 km gasnet en zijn er trots op dat onze netten tot één van de betrouwbaarste ter wereld behoren. Onze 7000 collega’s zorgen ervoor dat het licht brandt, de huizen warm zijn en de bedrijven draaien. Dit doen we vanuit het maatschappelijk belang om energie voor iedereen betrouwbaar, betaalbaar en bereikbaar te houden. 
 
-Deze opdracht is opgesteld door het research center en draagt direct bij aan de betrouwbaarheid van ons energie net. Het Research Center for Digital Technologies geeft vorm aan het digitale netwerkbedrijf van de toekomst. Via deze challenge onderzoeken we hoe we met kleine voorspellingen, namelijk die van de individuele huishoudens, bij elkaar opgeteld een betere prognose kunnen maken voor het verbruik van morgen. Met een betere voorspelling zijn wij beter in staat in te spelen op eventuele problemen. Jij draagt via deze challenge dus direct bij aan de energie transitie! 
+Alliander develops and manages energy networks. More than three million Dutch households and
+businesses receive electricity, gas and heat via our cables and pipelines. We manage more than 90,000
+km of electricity grid and 40,000 km of gas grid and are proud that our grids are among the most
+reliable in the world. Our 7000 colleagues ensure that the light is on, the houses are warm and the
+businesses are running. We do this in the interests of society to keep energy reliable, affordable and
+accessible for everyone.
 
-**De Light Learning Estimator** 
+This assignment has been drawn up by the research center and directly contributes to the reliability of
+our energy grid. The Research Center for Digital Technologies is shaping the digital networking
+company of the future. Through this challenge we investigate how we can use small forecasts, namely
+those of the individual householdns, added together to make a better forecast and for the
+consumptionof tomorrow. With a better forecast, weare better able torespond to anyproblems.
+Through this challenge you contribute directly to the energy transition!
 
-De Light Learning Estimator **(LLE)** maakt periodiek een voorspelling en voor ieder individueel huishouden. Deze huishoudens geven cumulatief inzicht in eventuele problemen op wijkniveau. Deze software moet gaan werken op light weight hardware, voor onze test een Raspberry Pi 4. De software geeft twee keer per dag een prognose af van jouw energieverbruik en energie opwek. Wanneer er iets in jou gebruik veranderd, door bijvoorbeeld de aanschaf zonnepanelen of een laadpaal aan huis, dan stelt de estimator zich binnen enkele dagen bij en wordt de voorspelling weer accuraat.  
+**The Light Learning Estimator**
 
-De LLE is een continuous learning, voorspellend algoritme dat draait op lichte hardware dat zich bevindt aan de uiteinden van het netwerk. De voordelen voor gebruikers en Alliander/Liander op een rijtje: 
+The Light Learning Estimator **(LLE)** periodically makes a forecast for each individual household. These
+households provide cumulative insight into any problems at district level. This software should be able
+to operate on light weight hardware, for our test this will be a Raspberry Pi 4. The software generates
+a forecast of your and energy consumption and energy twice a day. When something changes in your
+use, for example, by purchasing solar panels or a charging station at home, the estimator adjusts within
+a few days and the forecast becomes accurate again.
 
-Voordelen Alliander: 
+The LLE is a continuous learning, predictive algorithm that runs on light hardware located at the ends
+of the network. The advantages for users and Alliander/Liander at a glance:
 
-- Beter inzicht in verwacht energieverbruik van huishoudens, en dus wijk en het elektriciteitsnet 
+Advantages of Alliander:
+- Better insight into expected energy consumption of households, and therefore district and the
+electricity grid
+- And thus being able to better remedy malfunctions
 
-- En daarmee het beter kunnen verhelpen van storingen 
+Benefits for users:
+- Privacy-sensitive data stays within the household's smart meter
 
-Voordelen voor gebruikers: 
+In this challenge you will work to develop this piece of software. Of course, there is also something in
+return:
+**In addition to eternal fame, the first prize is €1,000,-.The deadline for submission is February 6th 2022, 23:59.**
 
-- Privacy-gevoelige data blijft binnen de slimme meter van het huishouden 
+Further instructions for the challenge can be found [here](LLEProtocol_Eng.pdf). If you have any questions or things are unclear, let us know.
 
-In deze challenge gaan jullie aan de slag om dit stukje software te ontwikkelen. Hier staat natuurlijk ook iets tegenover: 
-**Naast eeuwige roem, is de hoofdprijs €1.000,-. De deadline voor inzenden is 6 februari 2022, 23:59.**
-
-Verdere instructies voor de challenge zijn [hier](LLEProtocol.pdf) te vinden vanaf vrijdag 17 december. Bij onduidelijkheden, zoek vooral contact.
-
-**Veel plezier!** 
+**Enjoy!**
 
 N.B. 
-1. Schrijf je [HIER](https://docs.google.com/forms/d/1KAlcNgMeU62mEw3YGnrdtdb8G_-K46DM0Ep_UzFGNNk/) in voor de challenge. 
-2. Nadat je je hebt ingeschreven, krijg je een toegang tot een NDA en verwerkersovereenkomst. Om met echte data te werken, dienen deze ondertekend te worden.
-3. Nadat deze ondertekend zijn, krijg je van ons toegang tot de data en verdere instructies, en kan je aan de slag.
+1. Sign up [HERE](https://docs.google.com/forms/d/1KAlcNgMeU62mEw3YGnrdtdb8G_-K46DM0Ep_UzFGNNk/) for the challenge. 
+2. After signing up, you will get an NDA and processing agreement. Because you will get access to real user data, these have to be signed.
+3. After signing these agreements, you will get access to data and further instructions, and you can start solving the problem.
 
 Contact:
 Leon de Jong 
