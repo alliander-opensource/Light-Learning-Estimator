@@ -47,7 +47,8 @@ Benefits for users:
 
 In this challenge you will work to develop this piece of software. Of course, there is also something in
 return:
-**In addition to eternal fame, the first prize is €1,000,-.The deadline for submission is February 6th 2022, 23:59.**
+**In addition to eternal fame, the first prize is €1,000,-.The deadline for submission is February 13th 2022, 23:59.**
+**Evaluation will be finished at the end of March**
 
 Further instructions for the challenge can be found [here](LLEProtocol_Eng.pdf). If you have any questions or things are unclear, let us know.
 

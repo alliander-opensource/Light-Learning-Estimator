@@ -29,7 +29,8 @@ Voordelen voor gebruikers:
 - Privacy-gevoelige data blijft binnen de slimme meter van het huishouden 
 
 In deze challenge gaan jullie aan de slag om dit stukje software te ontwikkelen. Hier staat natuurlijk ook iets tegenover: 
-**Naast eeuwige roem, is de hoofdprijs €1.000,-. De deadline voor inzenden is 6 februari 2022, 23:59.**
+**Naast eeuwige roem, is de hoofdprijs €1.000,-. De deadline voor inzenden is 13 februari 2022, 23:59.**
+**Hierna gaan we de inzendingen zo snel mogelijk nakijken, we hopen dit eind maart af te hebben.**
 
 Verdere instructies voor de challenge zijn [hier](LLEProtocol.pdf). Bij onduidelijkheden, zoek vooral contact.
 
